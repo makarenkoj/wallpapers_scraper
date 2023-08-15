@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+gem 'byebug'
+gem 'csv'
+gem 'httparty'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'optparse'
+gem 'rspec', '~> 3.12'
+gem 'rubocop-shopify', require: false
+gem 'selenium-webdriver'
